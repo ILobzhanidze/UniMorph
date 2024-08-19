@@ -1,11 +1,11 @@
 # Summary
 
-This repository contains UD treebank for Georgian converted into the UniMorph format with Dictionary, which includes tokens from the above-mentioned corpus. 
-
-Annotator: Irina Lobzhanidze
+This repository contains [UD Georgian GLC treebank for Georgian](https://github.com/UniversalDependencies/UD_Georgian-GLC) converted into the UniMorph format with Dictionary. 
 
 Sources
-3013 sentences or 44030 tokens from Wikipedia. Semi-automatically generated and verified.
+3013 sentences or 44030 tokens from Wikipedia available at UD_Georgian_GLC. Semi-automatically generated using [ud-compatibility script](https://github.com/unimorph/ud-compatibility) and verified.
+
+Annotator: Irina Lobzhanidze
 
 # License
 
